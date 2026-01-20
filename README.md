@@ -11,6 +11,7 @@ This repo contins only source code you need to add dependencies externally
 2. flatlaf-intillij-themes-3.4.jar
 
 # Resources
+/src/resources
 
 1. icon.png
 
