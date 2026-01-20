@@ -15,3 +15,7 @@ This repo contins only source code you need to add dependencies externally
 
 1. icon.png
 
+# Note
+
+Create a lib forlder in your root directory and paste your dependencies there..
+
